@@ -6,7 +6,7 @@
     - 阿林
     - 独立开发者 / 数字游民 / Web 开发工程师
     - 终身学习者 / 保持思考  / 世界公民 /  Peace & Love
-    - 个人网站：<alin.run>
+    - 个人网站：[alin.run](https://alin.run)
 2. 能够获得什么？
     - <https://wangrunlin.github.io>
     - <https://alin.run>
